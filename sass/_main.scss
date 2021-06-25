@@ -1,0 +1,27 @@
+.wrapper {
+    width: 100%;
+    height: 100%;
+    .main {
+        align-items: center;
+        height: 80%;
+        background-color: red;
+        margin: 20px;
+        h1 {
+            text-align: center;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            padding: 40px;
+            text-transform: lowercase;
+            text-shadow: 40px;
+            
+        }
+        p {
+            text-align: center;
+            width: 50%;
+            margin: auto;
+            font-size: 25px;
+            font-family: 'Butterfly Kids', cursive;
+            font-weight: 600;
+            padding-top: 20px;
+        }
+    }    
+}
